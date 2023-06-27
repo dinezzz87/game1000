@@ -23,5 +23,6 @@ document.querySelector("#submit").onclick = function(){
     console.log(`Количесвто очков игорока: Таныч ${player1}`);
     console.log(`Количесвто очков игорока: Ден ${player2}`);
     console.log(`Количесвто очков игорока: Лёня ${player3}`);
+    alert("Данные записаны");
     }
   }
